@@ -20,6 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.github/workflows/continuousintegration.yml" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -61,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1757724052967</updated>
       <workItem from="1757724063838" duration="140000" />
-      <workItem from="1757724225599" duration="1859000" />
+      <workItem from="1757724225599" duration="4358000" />
     </task>
     <servers />
   </component>
