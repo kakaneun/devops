@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cee7757d-1805-4794-a56b-94d633bfc036" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.github/workflows/continuousdelivery.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/continuousdelivery.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +28,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.github/workflows/continuousdelivery.yml" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/.github/workflows/continuousintegration.yml" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
@@ -74,7 +74,7 @@
       <updated>1757724052967</updated>
       <workItem from="1757724063838" duration="140000" />
       <workItem from="1757724225599" duration="4358000" />
-      <workItem from="1757730880026" duration="2426000" />
+      <workItem from="1757730880026" duration="2759000" />
     </task>
     <servers />
   </component>
