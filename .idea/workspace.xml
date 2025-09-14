@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cee7757d-1805-4794-a56b-94d633bfc036" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/teste.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.github/workflows/continuousdelivery.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/continuousdelivery.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/continuousintegration.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/continuousintegration.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +53,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "criacaocontinuousdeployment",
+    "git-widget-placeholder": "docker",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,6 +81,7 @@
       <workItem from="1757724063838" duration="140000" />
       <workItem from="1757724225599" duration="4358000" />
       <workItem from="1757730880026" duration="2759000" />
+      <workItem from="1757887297916" duration="859000" />
     </task>
     <servers />
   </component>
