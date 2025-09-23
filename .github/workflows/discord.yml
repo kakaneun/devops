@@ -1,9 +1,16 @@
 name: Discord
 on:
+<<<<<<< HEAD
   - push
 
+=======
+  push:
+    branches:
+      - main
+>>>>>>> 6a02611515fdde60b7626b736d38554b63151571
 jobs:
   discord:
+    name: notification
     runs-on: ubuntu-latest
     steps:
 

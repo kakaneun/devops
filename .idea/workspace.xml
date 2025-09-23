@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cee7757d-1805-4794-a56b-94d633bfc036" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.github/workflows/discord.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/discord.yml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.github/workflows/discord.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/continuousintegration.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/continuousintegration.yml" afterDir="false" />
+>>>>>>> 6a02611515fdde60b7626b736d38554b63151571
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +54,8 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "teste-discord",
+    "git-widget-placeholder": "discord-integration",
+    "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -61,8 +68,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.178" />
-        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+        <option value="bundled-python-sdk-b3d66beaba9a-c6efb3732140-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26199.168" />
       </set>
     </attachedChunks>
   </component>
