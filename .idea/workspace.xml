@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cee7757d-1805-4794-a56b-94d633bfc036" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/continuousdelivery.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/continuousdelivery.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.github/workflows/continuousintegration.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/continuousintegration.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/discord.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/discord.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/test/pytest.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
